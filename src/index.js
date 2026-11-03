@@ -43,7 +43,7 @@ if (fs.existsSync(dist)) {
 
 app.use(
   cors({
-    origin: "https://your-frontend-domain.vercel.app",
+    origin: "https://attandence-app-frontend-pl7jffx66-my-solo.vercel.app",
     credentials: true,
   }),
 );
